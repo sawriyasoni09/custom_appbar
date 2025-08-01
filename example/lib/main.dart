@@ -22,7 +22,7 @@ class MyApp extends StatelessWidget {
             Icon(Icons.search),
           ],
         ),
-        body: const Center(child: Text("Hello from custom_appbar!")),
+        body: const Center(child: Text("Hello from custom_appbar_plus!")),
       ),
     );
   }

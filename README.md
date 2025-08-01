@@ -1,4 +1,4 @@
-# Custom AppBar
+# Custom AppBar Plus
 
 A customizable Flutter AppBar widget with flexible title, leading, and action support.
 
@@ -16,4 +16,4 @@ Add to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  custom_appbar: ^1.0.0
+  custom_appbar_plus: ^1.0.1

@@ -4,9 +4,9 @@ description: >
   Provides flexible styling options like title, leading, actions, colors,
   and more for building consistent app bars across your projects.
 version: 1.0.0
-homepage: https://github.com/yourusername/custom_appbar
-repository: https://github.com/yourusername/custom_appbar
-issue_tracker: https://github.com/yourusername/custom_appbar/issues
+homepage: https://github.com/sawriyasoni09/custom_appbar
+repository: https://github.com/sawriyasoni09/custom_appbar
+issue_tracker: https://github.com/sawriyasoni09/custom_appbar/issues
 
 environment:
   sdk: ">=3.0.0 <4.0.0"

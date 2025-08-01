@@ -1,0 +1,24 @@
+name: custom_appbar_example
+description: Example app to demonstrate the custom_appbar package.
+publish_to: 'none' # this is only an example app, not published
+
+version: 1.0.0
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # ✅ use the local package from parent directory
+  custom_appbar:
+    path: ../
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true

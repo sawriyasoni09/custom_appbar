@@ -1,0 +1,25 @@
+name: custom_appbar
+description: >
+  A customizable app bar widget for Flutter apps.
+  Provides flexible styling options like title, leading, actions, colors,
+  and more for building consistent app bars across your projects.
+version: 1.0.0
+homepage: https://github.com/yourusername/custom_appbar
+repository: https://github.com/yourusername/custom_appbar
+issue_tracker: https://github.com/yourusername/custom_appbar/issues
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+  flutter: ">=3.10.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true

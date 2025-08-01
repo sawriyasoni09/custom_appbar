@@ -1,4 +1,4 @@
-name: custom_appbar
+name: custom_appbar_plus
 description: >
   A customizable app bar widget for Flutter apps.
   Provides flexible styling options like title, leading, actions, colors,

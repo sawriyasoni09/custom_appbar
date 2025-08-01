@@ -1,3 +1,5 @@
+<img width="396" height="853" alt="Screenshot 2025-08-01 at 2 45 14 PM" src="https://github.com/user-attachments/assets/e8dbce68-ca43-4bbf-b523-ab96cfaa0c73" />
+
 # Custom AppBar Plus
 
 A customizable Flutter AppBar widget with flexible title, leading, and action support.
